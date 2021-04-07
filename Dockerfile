@@ -1,0 +1,1 @@
+FROM rasa/rasa:2.3.4-full
